@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="origin"
-           fetch="git@github.com:Arcane-Mage/" />
+           fetch=".." />
   <default revision="master"
            remote="origin"
            sync-j="4" />
