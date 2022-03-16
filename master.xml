@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="origin"
+           fetch=".." />
+  <default revision="master"
+           remote="origin"
+           sync-j="4" />
+           
+  <project path="hello_world" name="hello_world" revision="master" > </project>
+  <project path="RoboRTS-Firmware" name="RoboRTS-Firmware" revision="master" > </project>
+  </manifest>
