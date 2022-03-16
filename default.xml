@@ -7,6 +7,6 @@
            remote="origin"
            sync-j="4" />
            
-  <project path="hello_world" name="hello_world" > </project>
+  <project path="hello_world" name="hello_world" revision="master" > </project>
   <project path="RoboRTS-Firmware" name="RoboRTS-Firmware" > </project>
   </manifest>
